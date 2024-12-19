@@ -125,7 +125,8 @@
           "regexp:gismeteo",
           "regexp:livejournal",
           "regexp:vkuseraudio",
-          "regexp:vkuservideo"
+          "regexp:vkuservideo",
+					"regexp:timeweb"
         ],
         "outboundTag": "blocked"
       }
