@@ -120,7 +120,8 @@
         "gismeteo",
         "livejournal",
         "vkuseraudio",
-        "vkuservideo"
+        "vkuservideo",
+        "timeweb"
       ],
       "outbound": "direct"
     }
