@@ -126,7 +126,7 @@
           "regexp:livejournal",
           "regexp:vkuseraudio",
           "regexp:vkuservideo",
-					"regexp:timeweb"
+          "regexp:timeweb"
         ],
         "outboundTag": "blocked"
       }
