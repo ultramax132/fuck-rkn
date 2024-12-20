@@ -9,12 +9,6 @@
       "outbound": "direct"
     },
     {
-      "domain": [
-        "api.segment.io"
-      ],
-      "outbound": "block"
-    },
-    {
       "domain_suffix": [
         ".ru",
         ".su",
@@ -124,6 +118,16 @@
         "timeweb"
       ],
       "outbound": "direct"
+    },
+    {
+      "domain_keyword": [
+        "aliyuncs.com",
+        "easebar.com",
+        "gearupportal.com",
+        "mumuplayer.com",
+        "mumuglobal.com"
+      ],
+      "outbound": "block"
     }
   ]
 }
