@@ -27,6 +27,8 @@
     {
       "domain_keyword": [
         "apple.com",
+        "icloud.com",
+        "mzstatic.com",
         "kp.kg",
         "kp.house",
         "qq.com",
@@ -115,7 +117,9 @@
         "livejournal",
         "vkuseraudio",
         "vkuservideo",
-        "timeweb"
+        "timeweb",
+        "kvk.pub",
+        "voidboost"
       ],
       "outbound": "direct"
     },
