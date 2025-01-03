@@ -122,6 +122,7 @@
           "regexp:avito",
           "regexp:yandex",
           "regexp:yastatic",
+          "regexp:yastat",
           "regexp:gismeteo",
           "regexp:livejournal",
           "regexp:vkuseraudio",
