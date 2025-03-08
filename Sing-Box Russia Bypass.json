@@ -28,6 +28,8 @@
       "domain_keyword": [
         "apple.com",
         "icloud.com",
+        "gstatic",
+        "accounts.google",
         "mzstatic.com",
         "kp.kg",
         "kp.house",
@@ -123,6 +125,8 @@
         "risazatvorchestvo",
         "plati.market",
         "rndm.store",
+        "facon.store",
+        "vsrap.shop",
         "kvk.pub"
       ],
       "outbound": "direct"
